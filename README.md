@@ -1,4 +1,6 @@
 This project is unsupported, it was recovered here at the request of a user, this readme is here thanks to the WayBackMachine archive
+For now the best way to read the instructions is checking README.md as raw content
+
 
 
 Maven Native Dependencies
